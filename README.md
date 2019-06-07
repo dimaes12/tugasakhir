@@ -1,0 +1,2 @@
+# tugasakhir
+metode naive bayes
